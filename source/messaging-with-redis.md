@@ -1,11 +1,11 @@
-【linzx2015正在翻译中】
+【linzx2015校对调整】
 # Messaging With Redis
 
 > 原文：[Messaging with Redis](https://spring.io/guides/gs/messaging-redis/)
 >
-> 译者：
+> 译者：linzx2015
 >
-> 校对：
+> 校对：JeffLi1993
 
 在此处编写正文，基本翻译规范：
 
